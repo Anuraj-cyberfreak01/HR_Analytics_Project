@@ -133,7 +133,7 @@ The interactive dashboard was developed using Microsoft Power BI.
 
 ### HR Analytics Overview
 
-![HR Analytics Overview](screenshots/dashboard_overview.png)
+![HR Analytics Overview](https://github.com/Anuraj-cyberfreak01/HR_Analytics_Project/blob/main/HR%20_overview.png)
 
 The main dashboard includes visualizations for:
 
@@ -151,7 +151,7 @@ Interactive filters and visualizations allow users to explore different segments
 
 ### 8. Employee Details Dashboard
 
-![Employee Details](screenshots/employee_details.png)
+![Employee Details](https://github.com/Anuraj-cyberfreak01/HR_Analytics_Project/blob/main/Employee_details.png)
 
 A separate **Employee Details** page was created to provide detailed information about individual employees.
 
@@ -221,3 +221,6 @@ No Python environment or SQL database is required to run the dashboard.
 
    ```text
    HR_Analytics_Dashboard.pbix
+
+### **Copyright:**  
+Project by : Anurajsinh Vaghela
